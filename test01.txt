@@ -1,0 +1,3 @@
+Fichier source destiné à réaliser un test
+quelconque de la PIC Editique lors 
+du GIT commit de ce fichier
