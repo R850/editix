@@ -1,3 +1,6 @@
 Fichier source destiné à réaliser un test
 quelconque de la PIC Editique lors 
 du GIT commit de ce fichier
+
+Le build n°1 a fonctionner
+Voyons si ces modifs feront partie du build n°2
