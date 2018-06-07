@@ -1,3 +1,7 @@
-from shutil import copyfile
+import shutil
+import os
+srcdir = "./"
 
-copyfile("*.pdf", "*_TI.pdf")
+for src_file in os.listdir(srcdir) :
+    if src_file.endswith ('pdf') :
+        shutil.copy(srcdir + src_file, srcdir + "TI" + src_file)
