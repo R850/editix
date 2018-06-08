@@ -1,8 +1,0 @@
-Fichier source destiné à réaliser un test
-quelconque de la PIC Editique lors 
-du GIT commit de ce fichier
-
-Le build n°1 a fonctionner
-Voyons si ces modifs feront partie du build n°2
-
-Dans le build suivant (39) on devrait voir apparaître un nouveau fichier texte génér depuis le SAN03_cas6.pdf
